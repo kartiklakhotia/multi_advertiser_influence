@@ -5,7 +5,8 @@ Author - Kartik Lakhotia
 Directory structure
 
 1. greedy  - greedy algorithm
-2. lpSol - LP rounding based algorithm 
+2. lpSol - LP rounding based algorithm\
+            Uses CPLEX as an LP solver and python PULP interface for creating the LP 
 
 To run a particular algorithm, go to the corresponding directory and use following commands.
 
